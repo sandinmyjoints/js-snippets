@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: switch
+# name: switch (...) {
 # --
 switch ($1) {
   $0

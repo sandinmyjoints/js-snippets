@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: try
+# name: try {
 # --
 try {
   $0;

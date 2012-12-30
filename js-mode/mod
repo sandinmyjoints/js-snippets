@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
-# name: mod
-# key: mod
+# name: (function(exports) {
 # --
 (function(exports) {
 
